@@ -19,6 +19,21 @@
 8. 如何实现 GC (Garbage Collecting)
 9. ...
 
+如何跟进?
++ =.md= 和 =.org=, 该阅读哪一种?
+
+  =.org= 是我在撰写本教程中使用的标记语言 (markup language, [[https://orgmode.org][org-mode]]),
+  使用它是出于我个人的喜好以及对我来说效率最高. 但是为了方便 Github 的渲染,
+  以及非 org-mode 用户的使用, 我会在提交前导出一份 markdown 格式.
++ =day*= 真的是一天能够完成的量吗?
+
+  虽然本项目确实是按照 =day*= 来划分的, 但并不意味着进度安排是一天就能完成的
+  (或者是能够撑起一天的工作量). 毕竟我写的时候也不是一天就写完的,
+  并且一些概念出于第一次接触或是我的表达能力的原因, 可能并不能快速理解.
+
+  所以假如你无法在一天里面完成 =day*= 的内容, 或是你觉得 =day*= 的内容过少,
+  完全可以根据自己的进度去调整.
+
 * References
 可能有用的参考资料 (虽然我也没有全部读完就是了)
 + [[https://li-yiyang.github.io/lisp/from-linked-list-to-the-old-yet-modern-computer/][From Linked List to the Old Yet Modern Computer [S1]​]]
